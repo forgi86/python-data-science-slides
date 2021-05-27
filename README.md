@@ -20,3 +20,26 @@ Each lecture is accompanied by exercises with solutions.
 | 08       | 08_example                |  Two examples: video-game sales & global terrorism |
 | 09       | 09_pandas_data_wrangling  |  Pandas data wrangling: concatenate, join, pivot ... |
 | 10       | 10_pandas_timeseries      |  Time series processing and visualization
+
+## Requirements 
+
+A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, plotly, jupyter and rise is required.
+
+* To install all the packages, type in a terminal:
+
+``` 
+$ pip install numpy scipy pandas matplotlib jupyter
+$ pip install rise
+$ pip install plotly
+```
+
+## Quick start
+
+1.  Open a terminal in the folder where you have downloaded the slides
+2.  Start jupyter:
+```
+$ jupyter notebook
+```
+3. Open the slides with jupyter. 
+4. Click on the rise icon to go in presentation mode.
+
